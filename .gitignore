@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.Python
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDEs/Editors
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plots/outputs
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
